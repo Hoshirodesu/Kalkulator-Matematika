@@ -1,4 +1,4 @@
-# Kalkulator sederhana menggunakan operasi:  Akar, Pangkat, Fungsi Sin, Cos dan Tan
+# Kalkulator matematika menggunakan operasi:  Akar, Pangkat, Fungsi Sin, Cos dan Tan
 ## Project ini dibuat untuk memenuhi tugas Kelompok Pemograman Berbasis Objek 2
 ### Anggota Kelompok 2:
 1. Mochammad Raffi Fadhillah - 23552011066
